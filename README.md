@@ -1,4 +1,4 @@
-# ParabolQS
+# ParabolaX
 
 A **NixOS user**, **Emacs enjoyer**, and long-time **Lisp fan** who likes systems that stay simple and respect the user.  
 I care about free software and enjoy understanding how things actually work.
