@@ -1,22 +1,21 @@
 # ParabolQS
 
-> “Freedom is not a feature. It’s the foundation.”
+A **NixOS user**, **Emacs enjoyer**, and long-time **Lisp fan** who likes systems that stay simple and respect the user.  
+I care about free software and enjoy understanding how things actually work.
 
-A **Debian devotee**, **Emacs enthusiast**, and **Lisp lover** who believes in the elegance of simplicity and the power of free software.  
-Proud **FSF member** and digital freedom **warrior**, always tinkering with systems that respect the user.
+## Philosophy
+- Software should empower users, not lock them in.  
+- Emacs is my workspace; Lisp is how I think.  
+- Prefer clarity, minimalism, and reproducibility.
 
-##  Philosophy  
-- Software must serve **freedom**, not corporations.  
-- The shell is a cathedral. Emacs is the universe. Lisp is the language of thought.
+## Interests
+- NixOS & declarative configuration  
+- Emacs customization, Lisp, and general tooling  
+- Problem solving and algorithmic thinking  
+- Free software and open ecosystems  
 
-##  Interests
--  GNU/Linux (Debian at heart)  
--  Emacs customization & Lisp hacking  
--  Problem solving and algorithmic thinking  
--  Free Software advocacy  
-
-##  Current Setup
-- **OS:** Debian GNU/Linux  
+## Current Setup
+- **OS:** NixOS  
 - **Editor:** GNU Emacs  
-- **Languages:** Lisp, C, Java and Shell scripting  
-- **Philosophy:** “Keep it minimal. Keep it free.”
+- **Languages:** Lisp, C, Go, Java, and shell scripting  
+- **Approach:** “Keep it minimal. Keep it free.”
